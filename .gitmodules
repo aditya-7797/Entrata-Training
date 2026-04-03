@@ -1,0 +1,6 @@
+[submodule "Docker"]
+	path = Docker
+	url = https://github.com/aditya-7797/hospital-management-docker.git
+[submodule "PHP"]
+	path = PHP
+	url = https://github.com/aditya-7797/ecom_app_php.git
