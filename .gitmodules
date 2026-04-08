@@ -4,3 +4,6 @@
 [submodule "Advanced PHP"]
 	path = Advanced PHP
 	url = https://github.com/aditya-7797/ecom_app_php.git
+[submodule "PHP-unit-testing"]
+	path = PHP-unit-testing
+	url = https://github.com/aditya-7797/php-unit-testing.git
