@@ -7,3 +7,6 @@
 [submodule "PHP-unit-testing"]
 	path = PHP-unit-testing
 	url = https://github.com/aditya-7797/php-unit-testing.git
+[submodule "JS-Project"]
+	path = JS-Project
+	url = https://github.com/aditya-7797/js-project.git
