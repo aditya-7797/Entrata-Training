@@ -13,3 +13,6 @@
 [submodule "Advanced_Javascript"]
 	path = Advanced_Javascript
 	url = https://github.com/aditya-7797/Gym-management-NodeJs.git
+[submodule "PHP_ODBC"]
+	path = PHP_ODBC
+	url = https://github.com/aditya-7797/ecom_app_php.git
